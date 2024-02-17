@@ -1,0 +1,32 @@
+div.css-1v0mbdj.etr89bj1 {
+  display: block;
+}
+
+div.css-1v0mbdj.etr89bj1 img {
+  max-width: 120px !important;
+}
+
+.image-font {
+  font-size: 18px;
+}
+
+.prediction {
+  border: 0.02rem solid rgb(41, 43, 70);
+  background-color: rgb(32, 33, 53);
+  text-align: center;
+  padding: 1rem 0;
+  min-height: 105px;
+}
+.prediction_title {
+  font-size: 18px;
+}
+
+.prediction_value {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.prediction label {
+  font-size: 20px;
+  font-weight: 700;
+}
